@@ -23,7 +23,3 @@ Movie Recommendation System created using Collaborative Filtering (Website) and 
 </div>
 
 
-### References
-  - https://github.com/kishan0725/AJAX-Movie-Recommendation-System-with-Sentiment-Analysis
-
-NOTE* - This project is implemented with additional features and changes done to the reference link mentioned above.
